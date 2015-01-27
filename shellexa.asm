@@ -3,7 +3,6 @@
 ;32-bit linux shellcode
 ;pretty typical technique, but instead of the more typical
 ;27-5* bytes, I did it in 23
-;for comments or explication, email joshbooks@gmail.com
 
 section .text
 
